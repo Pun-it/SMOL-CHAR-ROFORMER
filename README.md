@@ -1,7 +1,17 @@
 <h2>Char-Transformer: Cute Character-Level Text Generator</h2>
 
-A small transformer-based model for generating text at the character level. It uses cool tricks like rotary position encodings (ROPE) and multi-head attention to create interesting text from your input.
-Features
+A small transformer-based model for generating text at the character level. 
+
+ROPE:
+
+                @article{su2021roformer,
+                  title={Roformer: Enhanced Transformer with Rotary Position Embedding},
+                  author={Mingxing Tan and Ruoming Pang and Yi Yang and Wei Wu and Nan Du},
+                  journal={arXiv preprint arXiv:2104.09864},
+                  year={2021},
+                  url={https://arxiv.org/abs/2104.09864}
+                }
+
 
 Character-level generation: Works with individual characters, not words.
 
