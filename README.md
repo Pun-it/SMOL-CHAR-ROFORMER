@@ -50,6 +50,6 @@ Enjoy your trained model generating cool character-based text!
 
 - [ ] Upload Weights
 
-- [ ] Add pre-training ?
+- [ ] Add post-training ?
 
 - [ ] Make the generator Work ?
