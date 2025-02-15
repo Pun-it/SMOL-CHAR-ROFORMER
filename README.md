@@ -1,6 +1,6 @@
 <h2>Char-Transformer: Cute Character-Level Text Generator</h2>
 
-A small transformer-based model for generating text at the character level. 
+A small transformer-based model for generating text at the character level based on Role Architecture written from scratch in torch.
 
 ROPE:
 
